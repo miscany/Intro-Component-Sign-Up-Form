@@ -63,7 +63,7 @@ h1 {
 }
 
 .input-fields input:focus {
-  border: 2px solid black;
+  border: 2px solid hsl(248, 32%, 49%);
 }
 
 .input-fields input::placeholder {
@@ -102,7 +102,7 @@ h1 {
 footer p {
   color: hsl(246, 25%, 77%);
   font-size: 12px;
-  margin: 1em 10%;
+  margin: 1.5em 10%;
 }
 
 footer p span {
